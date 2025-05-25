@@ -122,11 +122,12 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/61638c0e-61b4-41f0-ae41-3ff3a5319f84)
+![image](https://github.com/user-attachments/assets/88fea50e-203c-4359-bd54-a8d0cbbde092)
+
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/88fea50e-203c-4359-bd54-a8d0cbbde092)
-# RESULT:
+![image](https://github.com/user-attachments/assets/61638c0e-61b4-41f0-ae41-3ff3a5319f84)
 
+# RESULT:
 Thus the Ultrasonic sensor value is uploaded in the Things mate using Arduino controller.
 
